@@ -1,0 +1,11 @@
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.exe
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.deps.json
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.runtimeconfig.json
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.runtimeconfig.dev.json
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.dll
+C:\Users\KCA12\source\repos\scrm\bin\Debug\netcoreapp3.1\scrm.pdb
+C:\Users\KCA12\source\repos\scrm\obj\Debug\netcoreapp3.1\scrm.csprojAssemblyReference.cache
+C:\Users\KCA12\source\repos\scrm\obj\Debug\netcoreapp3.1\scrm.AssemblyInfoInputs.cache
+C:\Users\KCA12\source\repos\scrm\obj\Debug\netcoreapp3.1\scrm.AssemblyInfo.cs
+C:\Users\KCA12\source\repos\scrm\obj\Debug\netcoreapp3.1\scrm.dll
+C:\Users\KCA12\source\repos\scrm\obj\Debug\netcoreapp3.1\scrm.pdb
